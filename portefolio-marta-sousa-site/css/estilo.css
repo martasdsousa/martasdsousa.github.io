@@ -91,7 +91,7 @@ a:hover { color: var(--azul); }
 .cascata-grande { margin-top: 44px; font-size: 18px; line-height: 1.65; }
 .nota { margin-top: 44px; font-size: 14px; color: var(--cinza); }
 .retrato {
-  position: relative; flex: none; width: clamp(240px, 32vw, 420px); aspect-ratio: 1 / 1;
+  position: relative; flex: none; width: clamp(200px, 26vw, 340px); aspect-ratio: 1 / 1;
   margin: 0 clamp(8px, 3vw, 40px) 0 auto;
 }
 .retrato img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
